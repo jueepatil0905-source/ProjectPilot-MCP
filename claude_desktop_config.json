@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "projectpilot": {
+      "command": "/Users/zuiii/Desktop/ProjectPilot-MCP/.venv/bin/projectpilot-mcp",
+      "args": []
+    }
+  }
+}
